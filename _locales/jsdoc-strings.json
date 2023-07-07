@@ -1,0 +1,11 @@
+{
+    "PLTW_Controller": "Blocks for driving the PLTW_Controller\r\n\nBlocks for driving the PLTW_Controller",
+    "PLTW_Controller.ControllerButtonEvents": "Controller Button Events",
+    "PLTW_Controller.ControllerButtonPins": "Controller Button Pins",
+    "PLTW_Controller.ControllerButtons": "Controller Standard Buttons",
+    "PLTW_Controller.buttonIsPressed": "Determines if a Controller button is pressed",
+    "PLTW_Controller.buttonIsPressed|param|button": "press to be checked",
+    "PLTW_Controller.onButtonPress": "Do something when one of the Controller Buttons is pressed",
+    "PLTW_Controller.onButtonPress|param|button": "press to be checked",
+    "PLTW_Controller.onButtonPress|param|event": "happening on the button, eg: click"
+}
