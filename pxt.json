@@ -7,15 +7,13 @@
         "microphone": "*"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
         "README.md",
+        "controller.cpp",
         "contorller.ts",
-        "testConditionals.ts",
-        "testEvents.ts",
-        "strings.json",
-        "jsdoc-strings.json",
-        "controller.cpp"
+        "test.ts",
+        "_locales/strings.json",
+        "_locales/jsdoc-strings.json",
+
     ],
     "preferredEditor": "tsprj"
 }
