@@ -9,10 +9,12 @@
     "files": [
         "README.md",
         "controller.cpp",
-        "contorller.ts",
+        "contorller.",
+        "shims.d.ts",
+        "enums.d.ts",
         "test.ts",
         "_locales/strings.json",
-        "_locales/jsdoc-strings.json",
+        "_locales/jsdoc-strings.json"
 
     ],
     "preferredEditor": "tsprj"
